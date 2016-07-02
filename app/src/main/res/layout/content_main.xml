@@ -14,7 +14,8 @@
     tools:context="com.application.project_sibi.MainActivity">
 
     <TextView
-        android:text="Hello World!"
+        android:text="SILIT PITIK"
+        android:textSize="50dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 </RelativeLayout>
