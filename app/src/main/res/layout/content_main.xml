@@ -14,7 +14,7 @@
     tools:context="com.application.project_sibi.MainActivity">
 
     <TextView
-        android:text="SILIT PITIK"
+        android:text="TEST COMMIT DI UBUNTU AXELL"
         android:textSize="50dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
